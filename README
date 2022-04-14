@@ -1,0 +1,3 @@
+This program is intended to provide political information to those invested in learning about the ongoing conflicts between Russia and Ukraine. 
+Users are selected based off of their comment karma score on Reddit, and those who have the highest ratings are listed first. A seperate database application
+exists which holds users with the most publicly acknowledged posts. 
